@@ -31,7 +31,7 @@ In this project, we aim to build a machine learning-based solution for predictin
 
 ## How to Run the Project
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/Geo-y20/-Microsoft-Stock-Price-Prediction-.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the main script: `python main.py`
