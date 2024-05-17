@@ -32,9 +32,7 @@ In this project, we aim to build a machine learning-based solution for predictin
 ## How to Run the Project
 
 1. Clone the repository: `git clone https://github.com/Geo-y20/-Microsoft-Stock-Price-Prediction-.git`
-2. Navigate to the project directory: `cd your-repository`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the main script: `python main.py`
-5. Follow the instructions to preprocess the data, train the models, and make predictions.
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Run the Jupyter Notbook script
+4. Follow the instructions to preprocess the data, train the models, and make predictions.
 
-Feel free to modify and expand this README file to provide more details about your project, including the project structure, additional dependencies, and any other relevant information.
